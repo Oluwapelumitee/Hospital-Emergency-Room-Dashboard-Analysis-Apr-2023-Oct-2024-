@@ -24,8 +24,8 @@ This Power BI dashboard analyzes 9,216 emergency room patient records over a 19-
 - Visual Design & DAX Measures
 
 ##  Files
-- `screenshots/` — Monthly, Consolidated, Patient Details and Key Takeaways views
 - `Hospital Emergency Room Dashboard.pbix` — Power BI file
+- 'Hospital ER_Data.csv'-Hospital ER Raw Data
 
 ## Insights
 This dashboard helped identify areas needing improvement, such as reducing wait times and enhancing patient experience.
